@@ -1,0 +1,25 @@
+.about {
+    font-size: 20px;
+    color: black;
+  }
+  .discord {
+    font-size: 20px;
+    color: black;
+  }
+  .contact {
+    font-size: 21px;
+    color: black;
+  }
+  
+  .about:hover {
+    color: darkgrey;
+  }
+  
+  .discord:hover {
+    color: darkgrey;
+  }
+  
+  .contact:hover {
+    color: darkgray;
+  }
+  
