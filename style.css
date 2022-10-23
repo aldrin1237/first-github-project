@@ -210,13 +210,14 @@ footer {
     max-width: 240px;
   }
   h1 {
+    margin-top: 32px;
     text-align: center;
-    font-size: 60px;
+    font-size: 50px;
   }
 
   .subheader {
     text-align: center;
-    font-size: 28px;
+    font-size: 24px;
   }
 
   ul {
